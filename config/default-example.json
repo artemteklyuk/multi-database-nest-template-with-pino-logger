@@ -1,0 +1,15 @@
+{
+  "NODE_ENV": "development",
+  "name": "database-connect",
+  "port": 3001,
+  "mongoPort": 27017,
+  "mongoPass": "",
+  "mongoLogin": "g",
+  "mongoHost": "5001",
+  "mongoDbName": "jobhire-gateway",
+  "postgresPort": 5432,
+  "postgresPass": "postgres",
+  "postgresLogin": "postgres",
+  "postgresHost": "localhost",
+  "postgresDbName": "postgres"
+}
